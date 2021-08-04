@@ -10,3 +10,18 @@ Sobre el proyecto que venimos realizando, renombrar el archivo del servidor serv
 - Adecuar el proyecto y los módulos importados para permitir compatibilidades de importación y exportación.
 
 - Probar que el servidor funcione correctamente en ambos casos.
+
+
+## Nota
+
+### para transpilar con babel:
+
+```
+npm run ServerES6toJS5
+```
+
+### con TS:
+
+```
+pm run ServerTStoJS5
+```
